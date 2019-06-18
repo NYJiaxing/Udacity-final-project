@@ -2,7 +2,11 @@
 
 ### Project Profile
 
-This is the final project of the Udacity self-driving car nano degree. No need to say it's very hard for self team to finish this project. Please see this link for the video result https://youtu.be/_diRN8PbtuQ. The architecture contains five parts, you can see from the rqt_graph 1[](/imgs/rqtmsg.png)
+This is the final project of the Udacity self-driving car nano degree. No need to say it's very hard for self team to finish this project. Please see this link for the video result https://youtu.be/_diRN8PbtuQ. The architecture contains six parts, you can see from the rqt_graph 
+
+![](/imgs/rqtmsg.png)
+This time due to the time is limit, so I didn't use the deep learning methos, I'll use SSD or YOLO in the second commit in the short future.
+
 ### Native Installation
 
 * Be sure that your workstation is running Ubuntu 16.04 Xenial Xerus or Ubuntu 14.04 Trusty Tahir. [Ubuntu downloads can be found here](https://www.ubuntu.com/download/desktop).
