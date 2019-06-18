@@ -1,5 +1,8 @@
 # Udacity-final-project
 
+### Project Profile
+
+This is the final project of the Udacity self-driving car nano degree. No need to say it's very hard for self team to finish this project. Please see this link for the video result https://youtu.be/_diRN8PbtuQ. The architecture contains five parts, you can see from the rqt_graph 1[](/imgs/rqtmsg.png)
 ### Native Installation
 
 * Be sure that your workstation is running Ubuntu 16.04 Xenial Xerus or Ubuntu 14.04 Trusty Tahir. [Ubuntu downloads can be found here](https://www.ubuntu.com/download/desktop).
